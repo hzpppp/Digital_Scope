@@ -12,5 +12,9 @@
 !*.dra
 !*.DRA
 
+# 保留 Visio的vsdx文件
+!*.vsdx
+!*.VSDX
+
 # 保留 .gitignore 本身
 !.gitignore
